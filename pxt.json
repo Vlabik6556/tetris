@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "тетрис": "github:vlabik6556/tetris#d8588d70559ddf23b7ca9f6d7c4bb21984a6e54e"
     },
     "files": [
         "main.blocks",
